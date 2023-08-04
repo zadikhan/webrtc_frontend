@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Hostpage{
+text-align: center;
+
+}
+.rplayer{
+  margin-left:500px;
+             
+}
+.streambutton {
+  cursor: pointer;
+  background-color: rgb(21 132 248 / 92%);
+  width: 170px;
+  border-radius: 5px;
+  height: 34px;
+  margin: 5px;
+  font-weight: bolder;
+  font-size: 15px;
+  border: 2px;
+}
+
